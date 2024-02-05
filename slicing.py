@@ -2,6 +2,7 @@
 # start: The index where the slicing begins (inclusive).
 # stop: The index where the slicing ends (exclusive).
 # step: The step or increment between indices (default is 1).
+# space is also taken into consideration
 # Original string
 text = "Hello, World!"
 
